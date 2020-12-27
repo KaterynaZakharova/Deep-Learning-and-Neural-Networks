@@ -1,4 +1,4 @@
-# Deep-Learning-and-Neural-Networks
+# Deep Learning and Neural Networks Example
 
 Examples of NN models. DL algorithms
 
