@@ -10,7 +10,8 @@ Given test and train data contains images of cats and non-cats. Need to create t
   
   **(there is a bird picture)**
   
-  ```y = 0. It's a non-cat picture.
+  ```
+  y = 0. It's a non-cat picture.
 
   Number of training examples: 209
   Number of testing examples: 50
@@ -35,7 +36,8 @@ Given test and train data contains images of cats and non-cats. Need to create t
   
   **(there is a bird picture)**
   
-  ```y = 0. It's a non-cat picture.
+  ```
+  y = 0. It's a non-cat picture.
   
   Number of training examples: 209
   Number of testing examples: 50
